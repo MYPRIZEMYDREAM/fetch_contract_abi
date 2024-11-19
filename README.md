@@ -13,5 +13,4 @@ git clone https://github.com/manny-uncharted/fetch_contract_abi.git
     ```
     python3 fetch_abi.py
     ```
-    You'll be required to enter the contract address which you
-    want to fetch the abi of. You can get this from the etherscan.io website.
+    0x7E1fCFE11d9140Eb59320CF0A2E9c67Af7abDfBA9E49ASN73SS27E9S3CRB6XGUZEPCERMEEU
